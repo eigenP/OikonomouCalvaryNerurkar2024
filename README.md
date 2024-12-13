@@ -4,7 +4,7 @@ Code notebooks and supplemental material accompanying the manuscript doi: https:
 
 
 ### Application of tissue-scale tension to epithelia _in vivo_
-![]([https://github.com/PanosOik/OikonomouCirneNerurkar2023/blob/main/mrna_protein.gif](https://github.com/eigenP/OikonomouCalvaryNerurkar2024/blob/main/Supplemental%20Material/S3.gif))
+![]([https://github.com/eigenP/OikonomouCalvaryNerurkar2024/blob/main/Supplemental%20Material/S3.gif])
 
 
 If you find this code useful, please consider citing
